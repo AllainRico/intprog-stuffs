@@ -1,3 +1,0 @@
-ID Number: 123
-Last Name: qwerty
-Zipcode: 6015
